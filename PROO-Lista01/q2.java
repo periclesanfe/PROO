@@ -22,6 +22,7 @@ public class q2 {
         for (int i = 0; i < numeros.size(); i++) {
             System.out.print(numeros.get(i)+" ");
         }
+
         scanner.close();
     }
 }
